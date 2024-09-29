@@ -1,0 +1,14 @@
+E:\oop\oop\bin\Debug\net8.0\oop.exe
+E:\oop\oop\bin\Debug\net8.0\oop.deps.json
+E:\oop\oop\bin\Debug\net8.0\oop.runtimeconfig.json
+E:\oop\oop\bin\Debug\net8.0\oop.dll
+E:\oop\oop\bin\Debug\net8.0\oop.pdb
+E:\oop\oop\obj\Debug\net8.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop\oop\obj\Debug\net8.0\oop.AssemblyInfoInputs.cache
+E:\oop\oop\obj\Debug\net8.0\oop.AssemblyInfo.cs
+E:\oop\oop\obj\Debug\net8.0\oop.csproj.CoreCompileInputs.cache
+E:\oop\oop\obj\Debug\net8.0\oop.dll
+E:\oop\oop\obj\Debug\net8.0\refint\oop.dll
+E:\oop\oop\obj\Debug\net8.0\oop.pdb
+E:\oop\oop\obj\Debug\net8.0\oop.genruntimeconfig.cache
+E:\oop\oop\obj\Debug\net8.0\ref\oop.dll
